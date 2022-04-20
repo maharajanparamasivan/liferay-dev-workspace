@@ -1,0 +1,4 @@
+Bundle-Name: my-form-elements-web
+Bundle-SymbolicName: com.liferay.custom.forms.elements.web
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.custom.forms.elements.web.constants
